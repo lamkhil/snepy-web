@@ -1,0 +1,44 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/snepy-5759d.appspot.com/o/Group%2026%20(1).png?alt=media&token=88594184-af04-4e4d-bd8f-e21fc9f07e40');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .mastsolution {
+    padding-top: 72px;
+    padding-bottom: 72px;
+    background-color: #EFECFF;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .mastapp{
+    padding-top: 72px;
+    padding-bottom: 72px;
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(107.78deg, #3C1ABC -7.39%, #171719 148.92%);
+  }
+
+  .rectanglesolution-primary {
+    height: 300px;
+    -ms-flex: 0 0 380px;
+    flex: 0 0 380px;
+    margin: 12px;
+    background: linear-gradient(123.86deg, #050DC9 -10.97%, #020663 124.03%, #000000 151.46%, #01021B 151.46%);
+  }
+  .rectanglesolution {
+    height: 300px;
+    -ms-flex: 0 0 380px;
+    flex: 0 0 380px;
+    margin: 12px;
+    background: #FFFFFF;
+  }
+  
+  .imagesolution {
+    width: 101px;
+    height: 101px;
+  }
